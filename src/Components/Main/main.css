@@ -115,7 +115,7 @@
   color: var(--blackColor);
 }
 .main .secContent .singleDestination .cardInfo .desc {
-  font-size: 13.5rem;
+  font-size: 1rem; /* Adjust this to your preference */
   color: var(--textColor);
   font-weight: 500;
 }

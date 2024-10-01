@@ -31,7 +31,7 @@ const Data = [
         location: 'Paris',
         grade: 'Cultural Icon',
         fees: '$45',
-        // description: 'A symbol of France and one of the most famous landmarks in the world, offering stunning views of Paris.'
+        description: 'A symbol of France and one of the most famous landmarks in the world, offering stunning views of Paris.'
     },
 
     {
@@ -41,7 +41,7 @@ const Data = [
         location: 'Paris',
         grade: 'Cultural Masterpiece',
         fees: '$12',
-        // description: 'The world’s largest art museum and a historic monument, home to the famous Mona Lisa and many other masterpieces.'
+        description: 'The world’s largest art museum and a historic monument, home to the famous Mona Lisa and many other masterpieces.'
     },
 
     {
@@ -51,7 +51,7 @@ const Data = [
         location: 'Paris',
         grade: 'Historical Landmark',
         fees: '$13',
-        // description: 'A monumental arch honoring those who fought and died for France, offering panoramic views from the top.'
+        description: 'A monumental arch honoring those who fought and died for France, offering panoramic views from the top.'
     },
 
     {
@@ -61,7 +61,7 @@ const Data = [
         location: 'Marseille',
         grade: 'Scenic Harbor',
         fees: 'FREE',
-        // description: 'A historic port that has been the heart of Marseille for centuries, now a vibrant area filled with cafes and seafood restaurants.'
+        description: 'A historic port that has been the heart of Marseille for centuries, now a vibrant area filled with cafes and seafood restaurants.'
     },
 
     {
@@ -71,7 +71,7 @@ const Data = [
         location: 'Marseille',
         grade: 'Architectural Wonder',
         fees: '$6',
-        // description: 'A grand palace in Marseille, home to a museum of fine arts and surrounded by lush gardens.'
+        description: 'A grand palace in Marseille, home to a museum of fine arts and surrounded by lush gardens.'
     },
 
     {
@@ -81,7 +81,7 @@ const Data = [
         location: 'Berlin',
         grade: 'Cultural Icon',
         fees: 'FREE',
-        // description: 'An iconic symbol of Berlin and German unity, a must-visit historical site with deep significance.'
+        description: 'An iconic symbol of Berlin and German unity, a must-visit historical site with deep significance.'
     },
 
     {
@@ -91,7 +91,7 @@ const Data = [
         location: 'Berlin',
         grade: 'Political Landmark',
         fees: 'FREE',
-        // description: 'The seat of the German parliament, renowned for its striking glass dome that offers views of the city.'
+        description: 'The seat of the German parliament, renowned for its striking glass dome that offers views of the city.'
     },
 
     {
@@ -101,7 +101,7 @@ const Data = [
         location: 'Hamburg',
         grade: 'UNESCO World Heritage',
         fees: 'FREE',
-        // description: 'The largest warehouse district in the world, filled with beautiful red-brick buildings and canals, a UNESCO World Heritage Site.'
+        description: 'The largest warehouse district in the world, filled with beautiful red-brick buildings and canals, a UNESCO World Heritage Site.'
     },
 
     {
@@ -111,7 +111,7 @@ const Data = [
         location: 'Hamburg',
         grade: 'Modern Icon',
         fees: 'FREE',
-        // description: 'A modern architectural masterpiece and one of the largest concert halls in the world, offering stunning views of Hamburg.'
+        description: 'A modern architectural masterpiece and one of the largest concert halls in the world, offering stunning views of Hamburg.'
     },
 
     {
@@ -121,7 +121,7 @@ const Data = [
         location: 'Venice',
         grade: 'Romantic Landmark',
         fees: 'FREE',
-        // description: 'A famous bridge in Venice, known for its romantic views, connecting the Doge’s Palace to the prison.'
+        description: 'A famous bridge in Venice, known for its romantic views, connecting the Doge’s Palace to the prison.'
     },
 
     {
@@ -131,7 +131,7 @@ const Data = [
         location: 'Rome',
         grade: 'Ancient Wonder',
         fees: '$20',
-        // description: 'An ancient amphitheater, the largest ever built, where gladiators once fought. A testament to Roman engineering.'
+        description: 'An ancient amphitheater, the largest ever built, where gladiators once fought. A testament to Roman engineering.'
     },
 
     {
@@ -141,7 +141,7 @@ const Data = [
         location: 'Pisa',
         grade: 'Architectural Marvel',
         fees: '$20',
-        // description: 'The famous leaning bell tower of Pisa, known worldwide for its unintended tilt and architectural uniqueness.'
+        description: 'The famous leaning bell tower of Pisa, known worldwide for its unintended tilt and architectural uniqueness.'
     },
 
     {
@@ -151,7 +151,7 @@ const Data = [
         location: 'Como',
         grade: 'Natural Beauty',
         fees: 'FREE',
-        // description: 'A stunning lake in Northern Italy surrounded by beautiful mountains and charming villages, a favorite among celebrities.'
+        description: 'A stunning lake in Northern Italy surrounded by beautiful mountains and charming villages, a favorite among celebrities.'
     },
 
     {
@@ -161,7 +161,7 @@ const Data = [
         location: 'Rome',
         grade: 'Cultural Icon',
         fees: 'FREE',
-        // description: 'One of the most famous fountains in the world, known for its beauty and the tradition of throwing coins for good luck.'
+        description: 'One of the most famous fountains in the world, known for its beauty and the tradition of throwing coins for good luck.'
     },
 ]
 
